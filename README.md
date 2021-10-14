@@ -5,3 +5,9 @@ En primer lugar hacemos uso del comando curl con el argumento **-s**, para que d
 Luego de eso hacemos la redirección de la información hacia el archivo solicitado "items.json" en caso de no existir lo genera con la información antes obtenida y filtrada.
 
 Finalmente usamos el comando echo para mostrar que el archivo fue creado y el script llego al fin de su ejecución.
+
+Autor:
+
+Omar Martínez Tobar
+
+omar.martinez@alumnos.uv.cl
